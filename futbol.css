@@ -1,0 +1,77 @@
+h1{
+    color: red;
+}
+
+.titulo-destacado{
+    color: rgb(9, 5, 73);
+}
+
+.verde{
+    color: green;
+}
+
+/* Estilos para el título */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px; /* Agrega espacio debajo del título */
+}
+
+/* Estilos para la lista de enlaces */
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; /* Para centrar la lista horizontalmente */
+    background-color: #ddd; /* Color de fondo para la lista */
+    border-radius: 5px; /* Añade bordes redondeados */
+    padding: 10px; /* Espacio interno de la lista */
+    display: flex; /* Cambia el comportamiento del contenedor a flexbox */
+    justify-content: center; /* Centra los elementos horizontalmente */
+}
+
+/* Estilos para los elementos de la lista */
+li {
+    margin: 0 10px; /* Agrega un espacio entre los elementos */
+    display: inline; /* Para que los elementos de la lista se muestren en línea */
+}
+
+/* Estilos para el título */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px; /* Agrega espacio debajo del título */
+}
+
+/* Estilos para la lista de enlaces */
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center; /* Para centrar la lista horizontalmente */
+    background-color: #ddd; /* Color de fondo para la lista */
+    border-radius: 5px; /* Añade bordes redondeados */
+    padding: 10px; /* Espacio interno de la lista */
+    display: flex; /* Cambia el comportamiento del contenedor a flexbox */
+    justify-content: center; /* Centra los elementos horizontalmente */
+}
+
+/* Estilos para los elementos de la lista */
+li {
+    margin: 0 10px; /* Agrega un espacio entre los elementos */
+    display: inline; /* Para que los elementos de la lista se muestren en línea */
+}
+
+/* Estilos para los enlaces */
+a {
+    text-decoration: none;
+    color: #007bff;
+    padding: 8px 16px; /* Añade espacio interno alrededor del texto del enlace */
+    border: 2px solid #007bff; /* Agrega un borde alrededor del enlace */
+    border-radius: 5px; /* Añade bordes redondeados al borde */
+}
+
+/* Estilos para los enlaces cuando se pasa el ratón por encima */
+a:hover {
+    text-decoration: underline;
+    background-color: #007bff; /* Cambia el color de fondo cuando se pasa el ratón por encima */
+    color: #fff; /* Cambia el color del texto cuando se pasa el ratón por encima */
+}
